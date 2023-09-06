@@ -1,0 +1,19 @@
+
+> 03-webserver@1.0.0 test
+> jest --verbose --detectOpenHandles --forceExit
+
+  console.log
+    Server raised in port 3001
+
+      at Server.<anonymous> (server.js:9:11)
+
+  console.log
+    Server raised in port 3001
+
+      at Server.<anonymous> (server.js:9:11)
+
+  console.log
+    Server raised in port 3001
+
+      at Server.<anonymous> (server.js:9:11)
+
